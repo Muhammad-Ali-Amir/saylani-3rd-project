@@ -1,0 +1,287 @@
+.header {
+    background-color:#0088dd;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px ,2px darkgrey;
+
+
+}
+
+.f , .ins ,.t ,.you ,.wh {
+    width: 30px;
+    padding: 20px;
+    margin: 10px;
+
+}
+.sylanilogo {
+    width: 200px;
+    
+}
+button {
+    font-size: smaller ;
+}
+.navbar {
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    font-size: larger;
+    background-color:#fff;
+    border-radius:  35px;
+    float: right;
+   width: 20%;
+
+    
+    
+}
+
+
+.one{
+    width: 950px;
+    max-width:100%;
+    height:auto;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    font-size: 40PX;
+
+}
+.two , .three ,.four ,.five {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(146, 143, 143);
+    text-align: center;
+}
+.topper{
+    background-color: #1A6BF9;
+    padding: 30px;
+    margin: 5px;
+    display: inline-block ,;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    
+}
+.food{
+    margin: 30px;
+    padding: 20px;
+    width: 50px;
+}
+.medical{ margin: 30px;
+    padding: 20px;
+    width: 50px;
+
+}
+.family{
+    margin: 30px;
+    padding: 20px;
+    width: 50px;
+}
+.education{
+    margin: 30px;
+    padding: 20px;
+    width: 50px;
+}
+ .logo{
+    
+   padding-left: 430px;
+    width: 50px;
+ }
+
+ .doing {
+    width: 900px;
+    padding: 20px;
+    ;
+    margin: 10px;
+    display: inline-block;
+    background-color: #F5F2F1;
+    max-width:100%;
+    height:auto;
+    
+
+      
+    }
+
+
+  .sadqa{ width: 300px;
+    padding: 15px;
+    
+    margin: 50px;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16) ;
+    text-align: center;
+    font-size: 25px;
+    background-color: white;
+    
+
+  }
+  .medi{
+    width: 300px;
+    padding: 15px;
+    
+    margin:50px;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16) ;
+    text-align: center;
+    font-size: 25px;
+    background-color: white;
+  }
+  .edu{
+    width: 300px;
+    padding: 15px;
+    
+    margin: 10px;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16) ;
+    text-align: center;
+    font-size: 25px;
+    background-color: white;
+  }
+  .ro{
+    width:300px;
+    padding: 15px;
+    
+    margin: 50px;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16) ;
+    text-align: center;
+    font-size: 25px;
+    background-color: white;
+  }
+  .welfare{
+    width: 300px;
+    padding:15px;
+   
+    margin: 10px;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16) ;
+    text-align: center;
+    font-size: 25px;
+    background-color: white;
+  }
+  .dastarkhwan{
+    width: 300px;
+    padding:15px;
+    
+    margin: 10px;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    font-size: 25px;
+    background-color: white;
+  }
+  #doing{
+      width: 50px;
+  }
+
+  .mission{
+    padding: 30px;
+    margin: 30px;
+    width: 900px;
+  }
+
+  H3{
+    font-size: 25px;
+    color:royalblue;
+    padding-left: 2cm;
+
+  }
+  .hepa,.thar,.housing,.it {
+    width: 250px;
+    height: 10px;
+    color :royalblue;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    line-height: 1.42857143;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow:none;
+    margin:10px;
+    text-align: center;
+    font-style: bold;
+    font-size: 20px;
+    background-color: #EFEDED ;
+  
+  }
+  .navbar:hover{
+    color: white;
+    background: #0088dd; 
+
+
+  }
+
+  .gallery
+{
+  text-align:center;
+
+}
+
+.rashan{
+  width: 300px;
+}
+
+.footer{
+  background-color: black;
+  color: rgb(148, 147, 147);
+}
+
+.cell{
+  padding: 30px;
+  margin:30px;
+  list-style-image, width: 50px;: url(https://cdn2.iconfinder.com/data/icons/color-svg-vector-icons-2/512/dial_phone_telephone_call-512.png);
+
+}
+h4{
+  padding-left: 2cm;
+}
+.footertwo{
+  background-color:#0088dd ;
+  width: ;
+  height:50px;
+  text-align: center;
+}
+.copy{
+  color: #F5F2F1;
+  padding: 10px;
+}
+
+.ico{
+  width: 30px;
+    padding: 30px;
+    margin: 5px;
+
+}
+
+
+#button.show {
+  opacity: 1;
+  visibility: visible;
+}
+  @media (min-width: 300px)
+#button {
+    margin: 30px;}
+
+    #button {
+      display: inline-block;
+
+      width: 30px;
+      height: 30px;
+      border-radius: 4px;
+      position: fixed;
+      bottom: 100px;
+      right: 100px;
+      
+      
+    
+      z-index: 1000;
+  }
+  @media only screen and (min-width: 400px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  }
+ 
